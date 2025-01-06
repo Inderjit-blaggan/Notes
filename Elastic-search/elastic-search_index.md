@@ -10,7 +10,9 @@
 - Documentation: 
 
 #### **Query to Add Data**
-#### **Request**
+- **`POST`**: Creates or updates a document.
+- **`/employees/_doc/1`**: Indicates the `employees` index, `_doc` type (default), and the document ID `1`.
+
 ```bash
 POST /employees/_doc/1
 {
@@ -23,11 +25,6 @@ POST /employees/_doc/1
   "salary": 90000
 }
 ```
-
-#### **Explanation**
-- **`POST`**: Creates or updates a document.
-- **`/employees/_doc/1`**: Indicates the `employees` index, `_doc` type (default), and the document ID `1`.
-
 ---
 
 ### **Retrieving Data and Metadata**
