@@ -197,10 +197,9 @@ If you have a 3-node Elasticsearch cluster:
 - Each shard is stored on a **node**, allowing distributed storage and processing.
 - Replicas are used for redundancy and query performance.
 - Proper sharding configuration is crucial for scalability and performance in Elasticsearch.
-
+---
 In Elasticsearch, **Split API** and **Shrink API** are used to adjust the number of primary shards in an index. These APIs help you manage the shard configuration for scaling purposes.
 
----
 
 ### **1. Split API**
 The **Split API** is used to increase the number of primary shards for an index. It is helpful when:
