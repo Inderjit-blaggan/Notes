@@ -9,9 +9,7 @@
 - Youtube link to intro: https://www.youtube.com/watch?v=Bdt8M_RwHVs&list=PLA3GkZPtsafYd5m2BXmkL9pjsBKy0FQ2X&index=3
 - Documentation: 
 
-### **Query to Add Data**
-To add the JSON data to Elasticsearch, you use the **Index API**. Here’s the query to insert the data:
-
+#### **Query to Add Data**
 #### **Request**
 ```bash
 POST /employees/_doc/1
