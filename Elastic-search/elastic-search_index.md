@@ -1,7 +1,7 @@
 # Index
 
 1. [Elasticsearch Architecture](#elasticsearch-architecture)
-2. [Sharding](#sharding-in-elasticsearch)
+2. [Sharding](#2.-sharding-in-elasticsearch)
 
 ---
 
