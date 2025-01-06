@@ -1,11 +1,11 @@
 # Index
 
 1. [Elasticsearch Architecture](#elasticsearch-architecture)
-2. [Sharding](#2.-sharding-in-elasticsearch)
+2. [Sharding](#sharding-in-elasticsearch)
 
 ---
 
-## 1. Elasticsearch Architecture
+## Elasticsearch Architecture
 
 - Youtube link to intro: https://www.youtube.com/watch?v=Bdt8M_RwHVs&list=PLA3GkZPtsafYd5m2BXmkL9pjsBKy0FQ2X&index=3
 - Documentation: 
@@ -107,7 +107,7 @@ This combination of data and metadata makes Elasticsearch highly efficient for m
 
 
 
-## **2. Sharding in Elasticsearch**
+## Sharding in Elasticsearch
 
 **Sharding** is a fundamental concept in Elasticsearch that allows you to **divide an index into smaller, more manageable pieces** called **shards**. These shards distribute the data and load across multiple nodes in the cluster, enabling Elasticsearch to scale horizontally and handle large amounts of data.
 
