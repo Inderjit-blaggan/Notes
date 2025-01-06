@@ -107,7 +107,7 @@ This combination of data and metadata makes Elasticsearch highly efficient for m
 
 
 
-## **Sharding in Elasticsearch**
+## **2. Sharding in Elasticsearch**
 
 **Sharding** is a fundamental concept in Elasticsearch that allows you to **divide an index into smaller, more manageable pieces** called **shards**. These shards distribute the data and load across multiple nodes in the cluster, enabling Elasticsearch to scale horizontally and handle large amounts of data.
 
