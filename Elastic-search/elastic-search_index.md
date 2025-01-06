@@ -105,7 +105,7 @@ GET /employees/_doc/1
 
 This combination of data and metadata makes Elasticsearch highly efficient for managing, searching, and maintaining document consistency in distributed systems.
 
-
+---
 
 ## Sharding in Elasticsearch
 
