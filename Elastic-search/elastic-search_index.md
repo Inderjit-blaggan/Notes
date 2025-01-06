@@ -4,7 +4,7 @@
 
 ---
 
-## Elasticsearch Architecture
+## 1. Elasticsearch Architecture
 
 - Youtube link to intro: https://www.youtube.com/watch?v=Bdt8M_RwHVs&list=PLA3GkZPtsafYd5m2BXmkL9pjsBKy0FQ2X&index=3
 - Documentation: 
