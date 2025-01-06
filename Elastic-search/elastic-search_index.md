@@ -8,7 +8,7 @@
 
 - Youtube link to intro: https://www.youtube.com/watch?v=Bdt8M_RwHVs&list=PLA3GkZPtsafYd5m2BXmkL9pjsBKy0FQ2X&index=3
 - Documentation: 
-
+---
 ### Anology to Learn elasticsearch as database:
 
 - **Document** → **Row in SQL**: Each document in Elasticsearch corresponds to a single record or row in a SQL database table.
