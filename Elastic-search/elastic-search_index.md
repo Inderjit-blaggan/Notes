@@ -9,6 +9,12 @@
 - Youtube link to intro: https://www.youtube.com/watch?v=Bdt8M_RwHVs&list=PLA3GkZPtsafYd5m2BXmkL9pjsBKy0FQ2X&index=3
 - Documentation: 
 
+### Anology to Learn elasticsearch as database:
+
+- **Document** → **Row in SQL**: Each document in Elasticsearch corresponds to a single record or row in a SQL database table.
+- **Fields** → **Columns in SQL**: Fields in a document are similar to columns in a SQL table; they represent attributes or data points for a specific document.
+- **Index** → **Table in SQL**: An index in Elasticsearch is analogous to a table in SQL; it contains multiple documents (rows) with similar structures.
+
 #### **Query to Add Data**
 - **`POST`**: Creates or updates a document.
 - **`/employees/_doc/1`**: Indicates the `employees` index, `_doc` type (default), and the document ID `1`.
