@@ -1,6 +1,6 @@
 # Index
 
-1. [Postgres DB in Kubernetes](#postgres-db-in-kubernetes)
+1. [Elasticsearch Architecture](#elasticsearch-architecture)
 
 ---
 
