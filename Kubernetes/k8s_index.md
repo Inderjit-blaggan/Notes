@@ -1,9 +1,20 @@
+# Core Kubernetes topics:
 
-# Index
+1. [Scheduling In Kubernetes](#scheduling-in-k8s)
+
+
+
+# Miscelanious Topics and Best practises:
 
 1. [Postgres DB in Kubernetes](#postgres-db-in-kubernetes)
-
+2. 
 ---
+
+
+## Scheduling In Kubernetes
+- Doc link: https://medium.com/@josip.cloud/understand-scheduling-in-kubernetes-1c7b24050638 
+
+
 
 ## Postgres DB in Kubernetes
 
