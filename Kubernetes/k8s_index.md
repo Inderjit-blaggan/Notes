@@ -16,7 +16,7 @@
 
 
 
-## Postgres DB in Kubernetes
+### Postgres DB in Kubernetes
 
 - Youtube link to intro: https://www.youtube.com/watch?v=Ny9RxM6H6Hg
 - Documentation:
