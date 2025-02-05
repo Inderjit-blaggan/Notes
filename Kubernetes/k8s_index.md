@@ -1,6 +1,6 @@
 # Core Kubernetes topics:
 
-1. [Scheduling In Kubernetes](#scheduling-in-k8s)
+1. [Scheduling In k8s](#scheduling-in-k8s)
 
 
 
@@ -11,7 +11,7 @@
 ---
 
 
-## Scheduling In Kubernetes
+## Scheduling In k8s
 - Doc link: https://medium.com/@josip.cloud/understand-scheduling-in-kubernetes-1c7b24050638 
 
 
