@@ -3,7 +3,7 @@
 1. [Scheduling In k8s](#scheduling-in-k8s)
 
 
-
+---
 # Miscelanious Topics and Best practises:
 
 1. [Postgres DB in Kubernetes](#postgres-db-in-kubernetes)
@@ -13,7 +13,7 @@
 
 ## Scheduling In k8s
 - Doc link: https://medium.com/@josip.cloud/understand-scheduling-in-kubernetes-1c7b24050638 
-
+---
 
 
 ### Postgres DB in Kubernetes
