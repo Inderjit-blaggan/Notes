@@ -1,7 +1,51 @@
 # Kubernetes Command index
-1. [Kind for self hosted cluster](#kind-for-self-hosted-cluster)
-2. 
+1. [Docker commands](#docker-commands)
+2. [Kind for self hosted cluster](#kind-for-self-hosted-cluster)
+3. 
 ---
+
+# Docker commands:
+---
+#### **a) Check System-Wide Resource Usage**
+Run:
+```bash
+docker system df
+```
+📌 **Output:**
+```plaintext
+TYPE                TOTAL     ACTIVE    SIZE      RECLAIMABLE
+Images              10        3         2.345GB   1.456GB (62%)
+Containers          3         2         300MB     150MB (50%)
+Local Volumes       5         5         1.234GB   0B (0%)
+Build Cache         12        0         500MB     500MB
+```
+
+This shows:
+- **Images**: Number of images and disk space used.
+- **Containers**: Running/stopped containers and their space usage.
+- **Volumes**: Storage used by Docker volumes.
+- **Build Cache**: Temporary storage for build processes.
+
+---
+
+#### **b) Check Container-Specific Resource Usage**
+Run:
+```bash
+docker stats
+```
+📌 **Output:**
+```plaintext
+CONTAINER ID   NAME        CPU %    MEM USAGE / LIMIT   MEM %    NET I/O      BLOCK I/O   PIDS
+a1b2c3d4e5f6   my-app      2.45%    150MiB / 1GiB       15.0%    1.2kB / 3kB  2.1MB / 0B  25
+```
+
+This shows:
+- **CPU Usage (%):** How much CPU each container is using.
+- **Memory Usage:** Memory consumed by the container.
+- **Network I/O:** Data sent/received by the container.
+- **Block I/O:** Disk read/write by the container.
+
+
 
 # Kind for self hosted cluster
 
