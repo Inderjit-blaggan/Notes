@@ -96,12 +96,3 @@
        \text{IQR} = 30 - 10 = 20
        \]
    - **Why it’s important**: It helps detect outliers. Any value outside `1.5 * IQR` is considered an outlier.
-
----
-
-     medical_df['age_group'] = pd.cut(medical_df['age'], bins=[18, 30, 50, 65], labels=['Young', 'Middle', 'Senior'])
-     ```
-
----
-
-Let me know if you need further clarification or examples! 😊
