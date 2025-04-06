@@ -4,7 +4,7 @@
 
 # EKS topics:
 
-1. [EKS Hybrid node and Kyvero policy engine](#eks-usecases/10-eks-hybrid-nodes-with-kyverno-policy-engine.md)
+1. [EKS Hybrid node and Kyvero policy engine](https://github.com/Inderjit-blaggan/Notes/blob/main/Kubernetes/eks-usecases/10-eks-hybrid-nodes-with-kyverno-policy-engine.md)
 
 
 ---
