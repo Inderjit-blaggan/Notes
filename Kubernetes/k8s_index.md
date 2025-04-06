@@ -4,7 +4,7 @@
 
 # EKS topics:
 
-1. [Scheduling In k8s](#scheduling-in-k8s)
+1. [EKS Hybrid node and Kyvero policy engine](#eks-usecases/10-eks-hybrid-nodes-with-kyverno-policy-engine.md)
 
 
 ---
