@@ -2,6 +2,10 @@
 
 1. [Scheduling In k8s](#scheduling-in-k8s)
 
+# EKS topics:
+
+1. [Scheduling In k8s](#scheduling-in-k8s)
+
 
 ---
 # Miscelanious Topics and Best practises:
