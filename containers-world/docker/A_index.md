@@ -1,6 +1,3 @@
-Here's a clean `A_index.md` file you can use to index your Docker documentation set:
-
-```markdown
 # 🐳 Docker Documentation Index
 
 Welcome to the Docker learning repository! This documentation covers core and advanced Docker concepts including storage, multi-container orchestration, and real-world usage practices.
