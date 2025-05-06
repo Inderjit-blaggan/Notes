@@ -20,4 +20,4 @@ Dive into multi-container apps, Docker Compose, Docker Swarm orchestration, Raft
 - [Docker Compose Reference](https://docs.docker.com/compose/compose-file/)
 - [Docker Storage Drivers](https://docs.docker.com/storage/storagedriver/)
 
-> 📌 Note: File naming typo in `docker_advaced.md` — consider renaming to `docker_advanced.md` for consistency.
+
