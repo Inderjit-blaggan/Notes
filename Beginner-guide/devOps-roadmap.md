@@ -150,6 +150,43 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 
 ---
 
+## 🧑‍💻 Phase 7: AWS Cloud Project Bootcamp: 
+### Build a production-grade microblogging platform, gaining experience in areas such as containerization, serverless computing, authentication, databases, CI/CD pipelines, and infrastructure as code
+
+1. **AWS IAM & Billing** – Set up secure user access and configure cost monitoring with budgets and alerts.
+2. **Docker & ECR** – Containerize apps and push images to Elastic Container Registry for deployment.
+3. **Amazon ECS (Fargate)** – Run containers serverlessly without managing EC2 infrastructure.
+4. **Amazon RDS & DynamoDB** – Use relational (PostgreSQL) and NoSQL (DynamoDB) databases with optimal design.
+5. **Amazon Cognito** – Enable user authentication and identity federation for web and mobile apps.
+6. **Amazon CloudWatch & X-Ray** – Monitor logs, metrics, and trace distributed applications.
+7. **Amazon Route 53 & ALB** – Configure DNS and load balancing with TLS support and custom domains.
+8. **AWS Lambda & S3** – Build event-driven serverless functions and use S3 for object storage.
+9. **AWS CDK / CloudFormation** – Define infrastructure as code to manage deployments and environments.
+10. **AWS CodePipeline & CodeBuild** – Automate CI/CD pipelines for continuous integration and delivery.
+    
+🔗 [▶️ Youtube: AWS Cloud Project Bootcamp](https://www.youtube.com/watch?v=zA8guDqfv40)
+
+
+[![Youtube System Design](https://tse4.mm.bing.net/th?id=OIP.UCchH3xt6i5cz6Zzjoe08wHaEK\&pid=Api)](https://www.linkedin.com/pulse/youtube-system-design-sourabh-patel-sfhtf)
+
+---
+
+## 🛠️ Phase 8: System Design Fundamentals (10-Line Summary)
+
+1. **Scalability** – Design systems to handle increasing load by scaling horizontally or vertically.
+2. **Reliability** – Ensure system uptime and fault tolerance through redundancy and failover strategies.([GeeksforGeeks][2])
+3. **Availability** – Maximize system uptime using techniques like load balancing and replication.
+4. **Latency** – Optimize response times by minimizing delays in data processing and transmission.
+5. **Throughput** – Increase the number of requests processed per unit time by optimizing resources.
+6. **Consistency** – Maintain data accuracy across distributed systems, balancing with availability.
+7. **Partition Tolerance** – Ensure the system continues to operate despite network partitions.
+8. **Caching** – Improve performance by storing frequently accessed data closer to the user.([GeeksforGeeks][2])
+9. **Load Balancing** – Distribute incoming traffic across multiple servers to prevent overload.([GeeksforGeeks][2])
+10. **Database Sharding** – Partition databases to distribute data across multiple machines for scalability.([GeeksforGeeks][2])
+    
+🔗 [▶️ Youtube: System Design](https://www.youtube.com/watch?v=F2FmTdLtb_4)
+---
+
 ## 🧠 Phase 7: Culture & Continuous Learning
 
 - DevOps Culture: Collaboration, Shared Ownership
