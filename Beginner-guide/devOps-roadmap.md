@@ -32,6 +32,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
   - DNS, HTTP/HTTPS
   - Ports, Firewalls
 
+
 🔗 [▶️ Youtube: Computer Networking Course - Network Engineering \[Full Course\]](https://www.youtube.com/watch?v=qiQR5rTSshw)
 ---
 
