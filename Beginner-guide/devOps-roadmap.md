@@ -38,8 +38,20 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 🔗 [▶️ Youtube: Computer Networking Course - Network Engineering \[Full Course\]](https://www.youtube.com/watch?v=qiQR5rTSshw)
 
 ---
+## 3: Cloud Computing Basics (Choose One Provider)
 
-### 3. Basic Programming/Scripting Knowledge
+### 1. Understanding Cloud Concepts
+- IaaS, PaaS, SaaS, IAM
+
+### 2. Core Services (Example: AWS)
+- EC2, S3, VPC, IAM, RDS
+
+🔗 [▶️ Youtube: AWS Full Course - Learn Amazon Web Services \[freeCodeCamp\]](https://www.youtube.com/watch?v=QN574SUEP2I)
+
+
+---
+
+### 4. Basic Programming/Scripting Knowledge
 - Topics:
   - Python or Bash
   - Variables, loops, functions
@@ -63,7 +75,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
   - Remote Repositories
   - `.gitignore`, tags
 
-🔗 [▶️ Youtube: Git and GitHub for Beginners - Crash Course \[freeCodeCamp\]](https://www.youtube.com/watch?v=RGOj5yH7evk)
+🔗 [▶️ Youtube: Jenkins for Beginners - Crash Course \[freeCodeCamp\]](https://www.youtube.com/watch?v=6YZvp2GwT0A)
 
 ---
 
@@ -81,7 +93,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 ### 3. CI/CD Tools
 - Jenkins, GitHub Actions, GitLab CI
 
-🔗 [▶️ Youtube: CI/CD Explained - DevOps Tutorial for Beginners \[freeCodeCamp\]](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
+🔗 [▶️ Youtube: CI/CD Explained - DevOps Tutorial for Beginners \[freeCodeCamp\]](https://www.youtube.com/watch?v=hQcFE0RD0cQ&t=784s)
 
 ---
 
@@ -139,17 +151,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 
 ---
 
-## ☁️ Phase 6: Cloud Computing Basics (Choose One Provider)
 
-### 1. Understanding Cloud Concepts
-- IaaS, PaaS, SaaS, IAM
-
-### 2. Core Services (Example: AWS)
-- EC2, S3, VPC, IAM, RDS
-
-🔗 [▶️ Youtube: AWS Full Course - Learn Amazon Web Services \[freeCodeCamp\]](https://www.youtube.com/watch?v=QN574SUEP2I)
-
----
 
 ## 🧑‍💻 Phase 7: AWS Cloud Project Bootcamp: 
 ### Build a production-grade microblogging platform, gaining experience in areas such as containerization, serverless computing, authentication, databases, CI/CD pipelines, and infrastructure as code
