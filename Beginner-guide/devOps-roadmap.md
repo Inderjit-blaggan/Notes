@@ -166,9 +166,6 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
     
 🔗 [▶️ Youtube: AWS Cloud Project Bootcamp](https://www.youtube.com/watch?v=zA8guDqfv40)
 
-
-[![Youtube System Design](https://tse4.mm.bing.net/th?id=OIP.UCchH3xt6i5cz6Zzjoe08wHaEK\&pid=Api)](https://www.linkedin.com/pulse/youtube-system-design-sourabh-patel-sfhtf)
-
 ---
 
 ## 🛠️ Phase 8: System Design Fundamentals (10-Line Summary)
