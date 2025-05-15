@@ -134,6 +134,8 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 
 
 
+
+
 ---
 
 ## ☁️ Phase 6: Cloud Computing Basics (Choose One Provider)
