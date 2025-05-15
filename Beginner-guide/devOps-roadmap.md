@@ -146,7 +146,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 ### 2. Core Services (Example: AWS)
 - EC2, S3, VPC, IAM, RDS
 
-🔗 [▶️ Youtube: AWS Full Course - Learn Amazon Web Services \[freeCodeCamp\]](https://www.youtube.com/watch?v=RrKRN9zRBWs)
+🔗 [▶️ Youtube: AWS Full Course - Learn Amazon Web Services \[freeCodeCamp\]](https://www.youtube.com/watch?v=QN574SUEP2I)
 
 ---
 
