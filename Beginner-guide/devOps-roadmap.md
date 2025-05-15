@@ -32,9 +32,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
   - DNS, HTTP/HTTPS
   - Ports, Firewalls
 
-▶️ YouTube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qiQR5rTSshw" title="Computer Networking Course - Network Engineering [Full Course]" frameborder="0" allowfullscreen></iframe>
-
+🔗 [▶️ Youtube: Computer Networking Course - Network Engineering \[Full Course\]](https://www.youtube.com/watch?v=qiQR5rTSshw)
 ---
 
 ### 3. Basic Programming/Scripting Knowledge
@@ -44,8 +42,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
   - File I/O
   - API Requests
 
-▶️ YouTube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rfscVS0vtbw" title="Python for Beginners - Full Course [freeCodeCamp]" frameborder="0" allowfullscreen></iframe>
+🔗 [▶️ Youtube: Python for Beginners - Full Course \[freeCodeCamp\]](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 ---
 
@@ -62,8 +59,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
   - Remote Repositories
   - `.gitignore`, tags
 
-▶️ YouTube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RGOj5yH7evk" title="Git and GitHub for Beginners - Crash Course [freeCodeCamp]" frameborder="0" allowfullscreen></iframe>
+🔗 [▶️ Youtube: Git and GitHub for Beginners - Crash Course \[freeCodeCamp\]](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 ---
 
@@ -81,9 +77,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 ### 3. CI/CD Tools
 - Jenkins, GitHub Actions, GitLab CI
 
-▶️ YouTube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5Zsa_eOXeY" title="CI/CD Explained - DevOps Tutorial for Beginners [freeCodeCamp]" frameborder="0" allowfullscreen></iframe>
-
+🔗 [▶️ Youtube: CI/CD Explained - DevOps Tutorial for Beginners \[freeCodeCamp\]](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
 ---
 
 ## 🏗 Phase 3: Infrastructure as Code (IaC) & Configuration Management
@@ -96,15 +90,13 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 - Tools:
   - Ansible (Recommended), Puppet, Chef
 
-▶️ YouTube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iV8B1RGrnzM" title="Ansible Tutorial for Beginners | Full Course [freeCodeCamp]" frameborder="0" allowfullscreen></iframe>
+🔗 [▶️ Youtube: Ansible Tutorial for Beginners | Full Course](https://www.youtube.com/watch?v=iV8B1RGrnzM)
 
 ### 3. Infrastructure Provisioning
 - Tools:
   - Terraform (Recommended), CloudFormation, ARM, GDM
 
-▶️ YouTube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SLB_c_ayRMo" title="Terraform Course - Beginner to Advanced [freeCodeCamp]" frameborder="0" allowfullscreen></iframe>
+🔗 [▶️ Youtube: Terraform Course - Beginner to Advanced](https://www.youtube.com/watch?v=SLB_c_ayRMo)
 
 ---
 
@@ -116,14 +108,11 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 ### 2. Docker
 - Dockerfile, Docker CLI, Compose
 
-▶️ YouTube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3c-iBn73dDE" title="Docker Tutorial for Beginners [freeCodeCamp]" frameborder="0" allowfullscreen></iframe>
+🔗 [▶️ Youtube: Docker Tutorial for Beginners \[freeCodeCamp\]](https://www.youtube.com/watch?v=3c-iBn73dDE)
 
 ### 3. Container Orchestration (Kubernetes)
 - Concepts: Pods, Deployments, Services
-
-▶️ YouTube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d6WC5n9G_sM" title="Kubernetes Tutorial for Beginners [freeCodeCamp]" frameborder="0" allowfullscreen></iframe>
+🔗 [▶️ Youtube: Kubernetes Tutorial for Beginners \[freeCodeCamp\]](https://www.youtube.com/watch?v=d6WC5n9G_sM)
 
 ---
 
@@ -138,8 +127,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 ### 3. Monitoring Tools
 - Prometheus, Grafana, Cloud Watch
 
-▶️ YouTube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h4Sl21AKiDg" title="Prometheus and Grafana Course [freeCodeCamp]" frameborder="0" allowfullscreen></iframe>
+🔗 [▶️ Youtube: Prometheus and Grafana Course \[freeCodeCamp\]](https://www.youtube.com/watch?v=h4Sl21AKiDg)
 
 ---
 
@@ -151,8 +139,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 ### 2. Core Services (Example: AWS)
 - EC2, S3, VPC, IAM, RDS
 
-▶️ YouTube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RrKRN9zRBWs" title="AWS Full Course - Learn Amazon Web Services [freeCodeCamp]" frameborder="0" allowfullscreen></iframe>
+🔗 [▶️ Youtube: AWS Full Course - Learn Amazon Web Services \[freeCodeCamp\]](https://www.youtube.com/watch?v=RrKRN9zRBWs)
 
 ---
 
@@ -164,8 +151,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 - Build Real Projects
 - Read Docs & Join Communities
 
-▶️ YouTube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5Zsa_eOXeY" title="CI/CD & DevOps Intro (Same as Above)" frameborder="0" allowfullscreen></iframe>
+🔗 [▶️ Youtube: DevOps Culture & CI/CD Recap](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
 
 ---
 
