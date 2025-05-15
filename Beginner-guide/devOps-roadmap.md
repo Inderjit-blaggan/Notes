@@ -130,6 +130,9 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 - Prometheus, Grafana, Cloud Watch
 
 🔗 [▶️ Youtube: Prometheus Course \[freeCodeCamp\]](https://www.youtube.com/watch?v=STVMGrYIlfg&list=PLyBW7UHmEXgylLwxdVbrBQJ-fJ_jMvh8h)
+🔗 [▶️ Youtube: Graphana Course \[freeCodeCamp\]](https://www.youtube.com/watch?v=TQur9GJHIIQ&list=PLDGkOdUX1Ujo27m6qiTPPCpFHVfyKq9jT)
+
+
 
 ---
 
