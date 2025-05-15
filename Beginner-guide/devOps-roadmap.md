@@ -22,7 +22,9 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
   - Shell Scripting (Bash)
   - Networking tools: `ping`, `netstat`, `ss`, `curl`, `wget`, `dig`
 
+
 🔗 [▶️ Youtube: Linux Tutorial for Beginners | Full Course (freeCodeCamp)](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
+
 
 ---
 
