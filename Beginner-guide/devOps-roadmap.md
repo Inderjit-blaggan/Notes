@@ -180,6 +180,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 8. **Caching** – Improve performance by storing frequently accessed data closer to the user.([GeeksforGeeks][2])
 9. **Load Balancing** – Distribute incoming traffic across multiple servers to prevent overload.([GeeksforGeeks][2])
 10. **Database Sharding** – Partition databases to distribute data across multiple machines for scalability.([GeeksforGeeks][2])
+    
 🔗 [▶️ Youtube: System Design](https://www.youtube.com/watch?v=F2FmTdLtb_4)
 
 ---
