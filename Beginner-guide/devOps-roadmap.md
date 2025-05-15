@@ -77,7 +77,9 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 
 ### 3. CI/CD Tools
 - Jenkins, GitHub Actions, GitLab CI
+
 🔗 [▶️ Youtube: CI/CD Explained - DevOps Tutorial for Beginners \[freeCodeCamp\]](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
+
 ---
 
 ## 🏗 Phase 3: Infrastructure as Code (IaC) & Configuration Management
