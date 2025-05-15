@@ -113,6 +113,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 
 ### 3. Container Orchestration (Kubernetes)
 - Concepts: Pods, Deployments, Services
+
 🔗 [▶️ Youtube: Kubernetes Tutorial for Beginners \[freeCodeCamp\]](https://www.youtube.com/watch?v=d6WC5n9G_sM)
 
 ---
@@ -128,7 +129,7 @@ DevOps is a culture and a set of practices, supported by tools, aimed at shorten
 ### 3. Monitoring Tools
 - Prometheus, Grafana, Cloud Watch
 
-🔗 [▶️ Youtube: Prometheus and Grafana Course \[freeCodeCamp\]](https://www.youtube.com/watch?v=h4Sl21AKiDg)
+🔗 [▶️ Youtube: Prometheus Course \[freeCodeCamp\]](https://www.youtube.com/watch?v=STVMGrYIlfg&list=PLyBW7UHmEXgylLwxdVbrBQJ-fJ_jMvh8h)
 
 ---
 
