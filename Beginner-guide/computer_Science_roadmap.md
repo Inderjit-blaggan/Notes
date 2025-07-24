@@ -89,6 +89,14 @@ It introduces career paths, skills to learn, how to build an engineering mindset
 
 ---
 
+### 🗄️ 9. Database Engineer
+
+* **What They Do:** Design, optimize, and manage data storage systems
+* **Tech Stack:** MySQL, PostgreSQL, MongoDB, Redis, SQL, Performance Tuning tools
+* **AI Impact:** AI may assist with query optimization, but DB design and security need human expertise
+* **Mini Project:** Build a normalized database schema for a library management system and write APIs to interact with it
+
+
 ## 🧠 Engineering Mindset: What & Why
 
 > "Engineering isn't just coding. It's structured thinking to solve real problems."
