@@ -8,10 +8,10 @@ It introduces career paths, skills to learn, how to build an engineering mindset
 ## 📚 Table of Contents
 
 1. [Career Domains in Computer Science](#career-domains-in-computer-science)
-2. [Engineering Mindset: What & Why](#engineering-mindset-what--why)
-3. [Building the Engineering Mindset in College](#building-the-engineering-mindset-in-college)
-4. [From Learning to Interning](#from-learning-to-interning)
-5. [Best Practices to Showcase Progress & Consistency](#best-practices-to-showcase-progress--consistency)
+2. [Engineering Mindset: What & Why](#%EF%B8%8F-engineering-mindset-what--why)
+3. [Building the Engineering Mindset in College](#%EF%B8%8F-building-the-engineering-mindset-in-college)
+4. [From Learning to Interning](#-from-learning-to-interning)
+5. [Best Practices to Show Consistency & Growth](#-best-practices-to-show-consistency--growth)
 
 ---
 
