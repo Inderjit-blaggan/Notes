@@ -4,6 +4,16 @@ A curated, production-tested collection of system design scenarios, live inciden
 
 ---
 
+## 💡 How These Guides Are Structured
+
+Every scenario is formatted specifically to help you succeed in real-time interviews:
+1. **🗣️ The Spoken Script (Choice of Words):** The exact phrasing, senior vocabulary, and narrative structure to deliver aloud with composure.
+2. **🪜 Sequential Steps:** Clear step-by-step triage paths so you never freeze or jump randomly between layers.
+3. **⚡ Fast Revision Subpoints:** Exact CLI commands, flags, Prometheus queries, and sysctl tunables for a 30-second review before your interview.
+4. **📊 Visual Flowcharts:** Compact Mermaid diagrams visualizing the troubleshooting decision tree or architecture.
+
+---
+
 ## Navigation & Study Modules
 
 | Module | Primary Topics | Core Focus | Link |
@@ -44,4 +54,3 @@ Symptom: Redis + Kafka Service Intermittent Drops
 2. **Step 2:** Study [Real-World Incidents](real_usecase_interview_question.md) to practice distinguishing platform/network issues from application bottlenecks.
 3. **Step 3:** Deepen architectural knowledge with [System Design](system_design_question.md) on hybrid cloud/edge topologies.
 4. **Step 4:** Work through the open scenarios in the [Practice Backlog](question_todo.md) using the provided investigation angles.
-
